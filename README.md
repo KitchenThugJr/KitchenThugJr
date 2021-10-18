@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KitchenThugJr
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
+- 📫 How to reach me arsh29102002@gmail.com
